@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @MuxtorovAbubakr
-- 👀 I’m interested in math, football, coding
-- 🌱 I’m currently learning C++ and Python
-- ⚡ Fun fact: preparing for the DSAT :)
+👋 Hi, I’m @MuxtorovAbubakr!
 
-<!---
-MuxtorovAbubakr/MuxtorovAbubakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about machine learning, mathematics, and programming.
+I enjoy learning how things work deeply, especially the math behind algorithms and model building.
+
+# **About me**
+🎓 Currently studying mathematics and programming
+🤖 Interested in Machine Learning and AI
+💻 I enjoy coding and building things from scratch
+📚 Currently learning more about ML algorithms, optimization, and practical coding
+🚀 Working on improving my skills step by step
+
+# **Tech I use**
+Language: Python
+Tools: Matplotlib, Scikit-learn, Numpy, Pandas, Jupyter notebooks/Google Colab
+
+# **Goals**
+Become strong in Machine Learning
+Build useful and valueable real-world projects
+
+# **Connect with me**
+Kaggle: https://www.kaggle.com/abubakr29
+LinkedIn: https://www.linkedin.com/in/abubakr-muxtorov-081861276/
+
+Thanks for visiting my profile!
